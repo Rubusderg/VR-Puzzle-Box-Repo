@@ -15,6 +15,7 @@ public class NumpadPassword : MonoBehaviour
     public NumpadClickCheck numpad8;
     public NumpadClickCheck numpad9;
 
+//Array!!!
     public bool order1Triggered = false;
     public bool order2Triggered = false;
     public bool order3Triggered = false;

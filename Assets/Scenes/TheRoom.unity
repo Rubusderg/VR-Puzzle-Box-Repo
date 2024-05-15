@@ -451,7 +451,7 @@ GameObject:
   - component: {fileID: 3979458}
   - component: {fileID: 3979457}
   m_Layer: 0
-  m_Name: BirdPivot1 (1)
+  m_Name: BirdPivot2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -983,7 +983,7 @@ GameObject:
   - component: {fileID: 103119798}
   - component: {fileID: 103119800}
   m_Layer: 0
-  m_Name: Empty (3)
+  m_Name: DialEmpty7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1490,7 +1490,7 @@ GameObject:
   - component: {fileID: 224361790}
   - component: {fileID: 224361789}
   m_Layer: 0
-  m_Name: Empty (5)
+  m_Name: DialEmpty5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2946,7 +2946,7 @@ GameObject:
   - component: {fileID: 758348067}
   - component: {fileID: 758348071}
   m_Layer: 0
-  m_Name: Empty (4)
+  m_Name: DialEmpty8
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3025,7 +3025,7 @@ GameObject:
   - component: {fileID: 767683382}
   - component: {fileID: 767683381}
   m_Layer: 0
-  m_Name: BirdPivot1 (3)
+  m_Name: BirdPivot4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3454,7 +3454,7 @@ GameObject:
   - component: {fileID: 820639805}
   - component: {fileID: 820639804}
   m_Layer: 0
-  m_Name: Empty (6)
+  m_Name: DialEmpty6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4253,7 +4253,7 @@ GameObject:
   - component: {fileID: 1093149185}
   - component: {fileID: 1093149184}
   m_Layer: 0
-  m_Name: BirdPivot1 (4)
+  m_Name: BirdPivot5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4707,7 +4707,7 @@ GameObject:
   - component: {fileID: 1209503313}
   - component: {fileID: 1209503312}
   m_Layer: 0
-  m_Name: Empty
+  m_Name: DialEmpty1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5067,7 +5067,7 @@ GameObject:
   - component: {fileID: 1370994890}
   - component: {fileID: 1370994889}
   m_Layer: 0
-  m_Name: Empty
+  m_Name: DialEmpty2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6362,7 +6362,7 @@ GameObject:
   - component: {fileID: 1724022235}
   - component: {fileID: 1724022239}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: Floor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6650,7 +6650,7 @@ GameObject:
   - component: {fileID: 1760624374}
   - component: {fileID: 1760624373}
   m_Layer: 0
-  m_Name: BirdPivot1 (2)
+  m_Name: BirdPivot3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7332,7 +7332,7 @@ GameObject:
   - component: {fileID: 1921541260}
   - component: {fileID: 1921541264}
   m_Layer: 0
-  m_Name: Empty (2)
+  m_Name: DialEmpty4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7409,7 +7409,7 @@ GameObject:
   - component: {fileID: 1941959349}
   - component: {fileID: 1941959351}
   m_Layer: 0
-  m_Name: Empty (1)
+  m_Name: DialEmpty3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8671,7 +8671,7 @@ GameObject:
   - component: {fileID: 5810372921909973674}
   - component: {fileID: 5810372921909973673}
   m_Layer: 0
-  m_Name: Side -X.006
+  m_Name: Num6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -11020,7 +11020,7 @@ GameObject:
   - component: {fileID: 6302514061382252974}
   - component: {fileID: 6302514061382252973}
   m_Layer: 0
-  m_Name: Side -X.005
+  m_Name: Num5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -11038,7 +11038,7 @@ GameObject:
   - component: {fileID: 8376387451428360042}
   - component: {fileID: 5831805473051749828}
   m_Layer: 0
-  m_Name: Circle.059
+  m_Name: NotchStopper
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -12226,7 +12226,7 @@ GameObject:
   - component: {fileID: 7804037045986017578}
   - component: {fileID: 7804037045986017577}
   m_Layer: 0
-  m_Name: Side -X.002
+  m_Name: Num2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -12912,7 +12912,7 @@ GameObject:
   - component: {fileID: 5017199400608605946}
   - component: {fileID: 5017199400608605945}
   m_Layer: 0
-  m_Name: Side -X.009
+  m_Name: Num9
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -13871,7 +13871,7 @@ GameObject:
   - component: {fileID: 8705030090183721823}
   - component: {fileID: 8705030090183721822}
   m_Layer: 0
-  m_Name: Side -X.003
+  m_Name: Num3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -13922,7 +13922,7 @@ GameObject:
   - component: {fileID: 8846304465335982328}
   - component: {fileID: 8846304465335982327}
   m_Layer: 0
-  m_Name: Side -X.008
+  m_Name: Num8
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -15512,13 +15512,218 @@ GameObject:
   - component: {fileID: 1888909704634729281}
   - component: {fileID: 4673770920387031518}
   - component: {fileID: 6564609502119203086}
+  - component: {fileID: 6786386355911357701}
+  - component: {fileID: 6786386355911357700}
+  - component: {fileID: 6786386355911357699}
   m_Layer: 0
-  m_Name: Circle.008
+  m_Name: Treasure
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!64 &6786386355911357699
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6786386355911357698}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 5
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -6531525120215824829, guid: 42c56a4fadbd287489ac84076b79694e, type: 3}
+--- !u!114 &6786386355911357700
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6786386355911357698}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad34abafad169848a38072baa96cdb2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_InteractionManager: {fileID: 0}
+  m_Colliders:
+  - {fileID: 6786386355911357699}
+  m_InteractionLayerMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_InteractionLayers:
+    m_Bits: 1
+  m_DistanceCalculationMode: 1
+  m_SelectMode: 0
+  m_FocusMode: 1
+  m_CustomReticle: {fileID: 0}
+  m_AllowGazeInteraction: 0
+  m_AllowGazeSelect: 0
+  m_OverrideGazeTimeToSelect: 0
+  m_GazeTimeToSelect: 0.5
+  m_OverrideTimeToAutoDeselectGaze: 0
+  m_TimeToAutoDeselectGaze: 3
+  m_AllowGazeAssistance: 0
+  m_FirstHoverEntered:
+    m_PersistentCalls:
+      m_Calls: []
+  m_LastHoverExited:
+    m_PersistentCalls:
+      m_Calls: []
+  m_HoverEntered:
+    m_PersistentCalls:
+      m_Calls: []
+  m_HoverExited:
+    m_PersistentCalls:
+      m_Calls: []
+  m_FirstSelectEntered:
+    m_PersistentCalls:
+      m_Calls: []
+  m_LastSelectExited:
+    m_PersistentCalls:
+      m_Calls: []
+  m_SelectEntered:
+    m_PersistentCalls:
+      m_Calls: []
+  m_SelectExited:
+    m_PersistentCalls:
+      m_Calls: []
+  m_FirstFocusEntered:
+    m_PersistentCalls:
+      m_Calls: []
+  m_LastFocusExited:
+    m_PersistentCalls:
+      m_Calls: []
+  m_FocusEntered:
+    m_PersistentCalls:
+      m_Calls: []
+  m_FocusExited:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Activated:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Deactivated:
+    m_PersistentCalls:
+      m_Calls: []
+  m_StartingHoverFilters: []
+  m_StartingSelectFilters: []
+  m_StartingInteractionStrengthFilters: []
+  m_OnFirstHoverEntered:
+    m_PersistentCalls:
+      m_Calls: []
+  m_OnLastHoverExited:
+    m_PersistentCalls:
+      m_Calls: []
+  m_OnHoverEntered:
+    m_PersistentCalls:
+      m_Calls: []
+  m_OnHoverExited:
+    m_PersistentCalls:
+      m_Calls: []
+  m_OnSelectEntered:
+    m_PersistentCalls:
+      m_Calls: []
+  m_OnSelectExited:
+    m_PersistentCalls:
+      m_Calls: []
+  m_OnSelectCanceled:
+    m_PersistentCalls:
+      m_Calls: []
+  m_OnActivate:
+    m_PersistentCalls:
+      m_Calls: []
+  m_OnDeactivate:
+    m_PersistentCalls:
+      m_Calls: []
+  m_AttachTransform: {fileID: 0}
+  m_SecondaryAttachTransform: {fileID: 0}
+  m_UseDynamicAttach: 0
+  m_MatchAttachPosition: 1
+  m_MatchAttachRotation: 1
+  m_SnapToColliderVolume: 1
+  m_ReinitializeDynamicAttachEverySingleGrab: 1
+  m_AttachEaseInTime: 0.15
+  m_MovementType: 2
+  m_VelocityDamping: 1
+  m_VelocityScale: 1
+  m_AngularVelocityDamping: 1
+  m_AngularVelocityScale: 1
+  m_TrackPosition: 1
+  m_SmoothPosition: 1
+  m_SmoothPositionAmount: 8
+  m_TightenPosition: 0.1
+  m_TrackRotation: 1
+  m_SmoothRotation: 1
+  m_SmoothRotationAmount: 8
+  m_TightenRotation: 0.1
+  m_TrackScale: 0
+  m_SmoothScale: 0
+  m_SmoothScaleAmount: 8
+  m_TightenScale: 0.1
+  m_ThrowOnDetach: 1
+  m_ThrowSmoothingDuration: 0.25
+  m_ThrowSmoothingCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  m_ThrowVelocityScale: 1.5
+  m_ThrowAngularVelocityScale: 1
+  m_ForceGravityOnDetach: 1
+  m_RetainTransformParent: 1
+  m_AttachPointCompatibilityMode: 0
+  m_StartingSingleGrabTransformers: []
+  m_StartingMultipleGrabTransformers: []
+  m_AddDefaultGrabTransformers: 1
+--- !u!54 &6786386355911357701
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6786386355911357698}
+  serializedVersion: 4
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_CenterOfMass: {x: 0, y: 0, z: 0}
+  m_InertiaTensor: {x: 1, y: 1, z: 1}
+  m_InertiaRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ImplicitCom: 1
+  m_ImplicitTensor: 1
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1 &6793341098287530729
 GameObject:
   m_ObjectHideFlags: 0
@@ -15531,7 +15736,7 @@ GameObject:
   - component: {fileID: 376091861023921243}
   - component: {fileID: 3450178226526363412}
   m_Layer: 0
-  m_Name: Circle.057
+  m_Name: NotchStopper
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -15591,7 +15796,7 @@ GameObject:
   - component: {fileID: 4350286463858680533}
   - component: {fileID: 5970618288938284946}
   m_Layer: 0
-  m_Name: Circle.055
+  m_Name: NotchStopper
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -17600,7 +17805,7 @@ GameObject:
   - component: {fileID: 8039850700379899306}
   - component: {fileID: 8039850700379899305}
   m_Layer: 0
-  m_Name: Side -X.004
+  m_Name: Num4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -17979,7 +18184,7 @@ GameObject:
   - component: {fileID: 8109528358125670861}
   - component: {fileID: 8109528358125670860}
   m_Layer: 0
-  m_Name: Side -X.007
+  m_Name: Num7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -19529,7 +19734,7 @@ GameObject:
   - component: {fileID: 3135376050256443416}
   - component: {fileID: 6840819938830920685}
   m_Layer: 0
-  m_Name: Circle.060
+  m_Name: NotchStopper
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -20254,7 +20459,7 @@ GameObject:
   - component: {fileID: 8970250411013300396}
   - component: {fileID: 8970250411013300395}
   m_Layer: 0
-  m_Name: Side -X.001
+  m_Name: Num1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -20772,7 +20977,7 @@ HingeJoint:
   m_AutoConfigureConnectedAnchor: 1
   m_ConnectedAnchor: {x: 0, y: 4.65, z: 0}
   serializedVersion: 2
-  m_UseSpring: 0
+  m_UseSpring: 1
   m_Spring:
     spring: 0
     damper: 0
