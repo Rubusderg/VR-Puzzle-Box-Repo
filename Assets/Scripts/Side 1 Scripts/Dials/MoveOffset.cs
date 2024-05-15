@@ -12,7 +12,8 @@ public class MoveOffset : MonoBehaviour
     public float moveSpeed = 1.0f; // Speed of the movement
 
     private Vector3 targetPosition;
-    public bool isMoving = true;
+    public bool isMoving = false;
+    private bool hasHappened = false;
 
     // Start is called before the first frame update
     void Start()
@@ -25,8 +26,10 @@ public class MoveOffset : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(scriptDrawer.drawerOpen)
+        if(scriptDrawer.drawerOpen && !hasHappened)
         {
+            isMoving = true;
+            hasHappened = true;
             if (isMoving)
             {
                 // Calculate the new position using Lerp for smooth movement
